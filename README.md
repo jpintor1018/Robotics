@@ -1,12 +1,17 @@
 # Robotics
 
 import lejos.nxt.*;
+
 import lejos.nxt.ColorSensor.Color;
+
 import lejos.*;
 
 public class HelloWorld
+
 {
+
     public static void main(String[] args)
+    
     {
         System.out.println("Lego Robotic");
 
